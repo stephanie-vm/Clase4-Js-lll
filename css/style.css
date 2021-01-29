@@ -1,0 +1,25 @@
+body {
+    font-family: Lato;
+}
+
+.line {
+    margin-bottom: 1rem;
+}
+
+.line label {
+    display: block;
+}
+/*ASIGNADAS POR JS*/
+.js-error{
+    border: 2px solid red;
+}
+
+.js-mensaje {
+    border: 2px solid green;
+    background-color: #ADFF2F;
+}
+.mensaje-error{
+    border: 3px solid red;
+    margin: 0;
+    background-color: rgba(218, 77, 88, 0.739);
+}
